@@ -1,0 +1,43 @@
+
+11:46:29.181 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+11:46:29.270 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:46:29.451 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+11:46:29.712 [main] INFO  testCases.TC_002_LoginTest - Provided mail
+11:46:29.781 [main] INFO  testCases.TC_002_LoginTest - Provided Password
+11:46:29.861 [main] INFO  testCases.TC_002_LoginTest - Clicked on Submit button
+11:47:52.430 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+11:47:52.505 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:47:52.752 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+11:47:52.928 [main] INFO  testCases.TC_002_LoginTest - Provided mail
+11:47:52.997 [main] INFO  testCases.TC_002_LoginTest - Provided Password
+11:47:53.074 [main] INFO  testCases.TC_002_LoginTest - Clicked on Submit button
+14:47:13.471 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+14:47:24.150 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+14:47:24.162 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+14:47:34.642 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+14:47:34.644 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+14:47:45.127 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+14:47:45.129 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+14:47:55.596 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+14:47:55.599 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+10:46:36.261 [main] INFO  testCases.TC_001_AccountRegister - Starting TC_001_AccountRegister
+10:46:36.345 [main] INFO  testCases.TC_001_AccountRegister - Clicked on My account link
+10:46:38.611 [main] INFO  testCases.TC_001_AccountRegister - Clicked on Register link
+10:46:38.613 [main] INFO  testCases.TC_001_AccountRegister - Providing customer data
+10:46:39.223 [main] INFO  testCases.TC_001_AccountRegister - Clicked on Continue Button
+10:46:49.256 [main] ERROR testCases.TC_001_AccountRegister - Test failed
+10:46:52.197 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+10:46:52.256 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+10:46:52.423 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+10:46:52.585 [main] INFO  testCases.TC_002_LoginTest - Provided mail
+10:46:52.664 [main] INFO  testCases.TC_002_LoginTest - Provided Password
+10:46:52.733 [main] INFO  testCases.TC_002_LoginTest - Clicked on Submit button
+10:47:06.089 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+10:47:16.622 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+10:47:16.623 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+10:47:27.092 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+10:47:27.093 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+10:47:37.606 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+10:47:37.607 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
+10:47:48.251 [main] INFO  testCases.TC_OO3_LoginDDT - Finished TC_OO3_LoginDDT
+10:47:48.252 [main] INFO  testCases.TC_OO3_LoginDDT - Starting of  TC_OO3_LoginDDT
